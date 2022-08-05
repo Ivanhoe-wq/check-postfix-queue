@@ -21,7 +21,7 @@ crontab -e
 And insert line like this
 
 ```bash
-*/15 * * * * /root/bin/check_postfix_queue.sh 50 &gt;&gt; /var/log/check.log 2&gt;&1
+*/15 * * * * /root/bin/check_postfix_queue.sh 50 >> /var/log/check.log 2>&1
 ```
 
 then edit the script to insert the email to which to send the alerts

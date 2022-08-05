@@ -8,7 +8,7 @@ This is a simple postfix queue checking script. Just run it, indicating as a par
 
 If the threshold value is exceeded, the script will send an alert email with the details of the queue, like this
 
-![](file://C:\Users\Lorenzo\AppData\Roaming\marktext\images\2022-08-05-16-23-49-image.png)
+![](https://github.com/Ivanhoe-wq/check-postfix-queue/blob/main/screenshot.jpg)
 
 ## Install
 

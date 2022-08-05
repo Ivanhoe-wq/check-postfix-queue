@@ -1,6 +1,6 @@
 # Check Postfix queue
 
-This is a simple postfix queue checking script. Just run it, indicating as a parameter the threshold value beyond which the e-mails in the queue must not go on
+This is a simple postfix queue checking script. Just run it, indicating as a parameter the threshold value beyond which the e-mails in the queue must not going on
 
 ```bash
 ./check-postfix-queue.sh 30
